@@ -27,4 +27,4 @@ Finding data driven answers for business questions by Management Board to derive
 * PostgreSQL (pgAdmin 4)
 
 ## Visualizations
-* [Tableau](https://public.tableau.com/app/profile/anjan.pakhrin/vizzes)
+* [Tableau](https://public.tableau.com/app/profile/anjan.pakhrin/vizzes) [Category: Rockbuster Stealth]
