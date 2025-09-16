@@ -25,3 +25,6 @@ Finding data driven answers for business questions by Management Board to derive
 
 ## Tool
 * PostgreSQL (pgAdmin 4)
+
+## Visualizations
+* [Tableau]([url](https://public.tableau.com/app/profile/anjan.pakhrin/vizzes))
