@@ -28,3 +28,4 @@ Finding data driven answers for business questions by Management Board to derive
 
 ## Visualizations
 * [Tableau](https://public.tableau.com/app/profile/anjan.pakhrin/vizzes) [Category: Rockbuster Stealth]
+* [Final Presentation](https://github.com/anjanpakhrin/Rockbuster-Stealth-Data-Analysis/blob/main/reports/Rockbuster_presentation.pdf)
